@@ -1,0 +1,16 @@
+TBs
+
+Normal
+
+FLARE          -   Pitiless Flail of Purgation = Knockback + Flare
+
+SHARE          -   Pitiless Flail of Grace = Knockback + Party stack
+
+After elements
+SHARE 
+
+
+
+Heavy hand = Single tb
+Pitiless Flail of Purgation = Knockback + Flare
+Pitiless Flail of Grace = Knockback + Party stack
